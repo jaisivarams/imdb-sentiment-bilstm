@@ -1,0 +1,6 @@
+{
+  "max_len": 256,
+  "max_words": 20000,
+  "test_accuracy": 0.8858525763839871,
+  "baseline_accuracy": 0.9121710194615307
+}
